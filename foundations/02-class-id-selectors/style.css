@@ -1,0 +1,10 @@
+
+.odd {
+    background-color: hsla(0, 100%, 80%, 0.8);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
